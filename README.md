@@ -1,4 +1,4 @@
-# AWS-Storage-Services-S3-
+# AWS-Storage-Services-S3
 The configuration for the programming environment
 involved identifying an AWS SDK tool to work with as well
 as updating the AWS credentials for the AWS account. This is
